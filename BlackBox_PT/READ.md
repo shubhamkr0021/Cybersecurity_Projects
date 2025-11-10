@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Black Box Penetration Testing on Enterprise Network (192.168.11.0/24)
+# 🕵️‍♂️ Black Box Penetration Testing on Enterprise Network
 
 ## Overview
 This project presents a **black-box penetration test** simulating an external adversary targeting a corporate network.  
