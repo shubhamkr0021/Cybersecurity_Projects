@@ -24,7 +24,7 @@ Discovered weak credentials, abused **GenericAll permissions**, and escalated to
 ---
 
 ### 3️⃣ Black Box Penetration Test (Enterprise Network Simulation)
-Performed a **black-box penetration test** on a virtual enterprise network (192.168.11.0/24).  
+Performed a **black-box penetration test** on a virtual enterprise network.  
 Identified multiple vulnerabilities including **EternalBlue**, **SQL Injection**, **CMS RCE**, and **File Upload Exploits**, successfully capturing 10 hidden flags.  
 **Tools:** Nessus • Metasploit • SQLMap • Nikto • Steghide • Burp Suite  
 **Focus:** End-to-end exploitation, web app security, forensic analysis, and mitigation planning.
